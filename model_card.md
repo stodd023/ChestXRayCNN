@@ -1,6 +1,7 @@
 Model Card
 
 MODEL DESCRIPTION
+
 MODEL INPUTS: Images (JPG file type) of dimension 224 x 224. 
 
 MODEL OUTPUTS: Three classifications (one neuron for COVID-19, one for PNEUMONIA, one for NORMAL).
