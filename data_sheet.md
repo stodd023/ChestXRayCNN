@@ -20,7 +20,8 @@ Source 3: Linda Wang, Alexander Wong, Zhong Qiu Lin, Paul McInnis, Audrey Chung,
 
 - What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)? 
 Images of patient chest X-rays that either have COVID-19, pneumonia or neither.
-- How many instances of each type are there? 
+- How many instances of each type are there?
+  
            |   Train   |  Test  |  Total 
 
  Covid     |   460     |   116  |  576
