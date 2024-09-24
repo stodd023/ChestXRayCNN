@@ -23,9 +23,11 @@ Images of patient chest X-rays that either have COVID-19, pneumonia or neither.
 - How many instances of each type are there?
   For train, test and total respectively:
   
-  Covid     |   460     |   116  |  576
-  Normal    |   1266    |   317  |  1583
-   Pneumonia |   3418    |   855  |  4273
+  Covid:   460, 116, 576
+  
+  Normal: 1266, 317, 1583
+  
+   Pneumonia: 3418, 855, 4273
   
 - Is there any missing data?
 No.
