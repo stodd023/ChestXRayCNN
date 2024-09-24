@@ -22,12 +22,10 @@ Source 3: Linda Wang, Alexander Wong, Zhong Qiu Lin, Paul McInnis, Audrey Chung,
 Images of patient chest X-rays that either have COVID-19, pneumonia or neither.
 - How many instances of each type are there?
   
-           |   Train    |  Test  |  Total 
+           |   Train    |  Test  |  Total
   Covid     |   460     |   116  |  576
- 
   Normal    |   1266    |   317  |  1583
- 
-  Pneumonia |   3418    |   855  |  4273
+   Pneumonia |   3418    |   855  |  4273
 - Is there any missing data?
 No.
 - Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by    doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?
